@@ -3,7 +3,7 @@ public class Main {
 
         int x = 3;
         int y = 5;
-
-        System.out.println(x+y);
+        int u = 2;
+        System.out.println(x+y+u);
     }
 }
