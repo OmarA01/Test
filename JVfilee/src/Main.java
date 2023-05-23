@@ -6,6 +6,6 @@ public class Main {
 
         int u = 2;
         System.out.println(x+y+u);
-
+        System.out.println("hi its omar");
     }
 }
